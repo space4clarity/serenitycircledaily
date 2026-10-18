@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Mindful Recovery: A Spiritual Path to Healing from Addiction",
+    "author": "Thomas Bien and Beverly Bien",
+    "isbn": "0471442615"
+  },
+  {
+    "id": 2,
+    "title": "Came to Believe",
+    "author": "Alcoholics Anonymous",
+    "isbn": "9780916856052"
+  },
+  {
+    "id": 3,
+    "title": "The Recovery Book",
+    "author": "Al J. Mooney",
+    "isbn": "9780761183150"
+  },
+  {
+    "id": 7,
+    "title": "No Bad Parts",
+    "author": "Richard C. Schwartz",
+    "isbn": ""
+  },
+  {
+    "id": 6,
+    "title": "Adult Children of Alcoholics / Dysfunctional Families",
+    "author": "Adult Children of Alcoholics World Service Organization",
+    "isbn": ""
+  },
+  {
+    "id": 5,
+    "title": "Hold Me Tight: Seven Conversations for a Lifetime of Love",
+    "author": "Sue Johnson",
+    "isbn": "9780316031998"
+  }
+]

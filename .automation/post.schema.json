@@ -1,0 +1,9 @@
+{
+  "type":"object","additionalProperties":false,
+  "required":["title","summary","topic","category","paragraphs","invitation","question","quotes"],
+  "properties":{
+    "title":{"type":"string"},"summary":{"type":"string"},"topic":{"type":"string"},"category":{"type":"string"},
+    "paragraphs":{"type":"array","items":{"type":"string"}},"invitation":{"type":"string"},"question":{"type":"string"},
+    "quotes":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["source_index","text"],"properties":{"source_index":{"type":"integer"},"text":{"type":"string"}}}}
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "site_url": "https://space4clarity.github.io/serenitycircledaily",
+  "focus": "Addiction recovery and sobriety, with practical, nonjudgmental reflections on support, self-compassion, relationships, cravings, and daily life. No treatment advice.",
+  "themes": [
+    {
+      "name": "Meeting a difficult feeling without making it an enemy",
+      "category": "Self-compassion",
+      "keywords": [
+        "compassion",
+        "kindness",
+        "curiosity",
+        "acceptance"
+      ]
+    },
+    {
+      "name": "Belonging without having to earn your place",
+      "category": "Connection",
+      "keywords": [
+        "belong",
+        "connection",
+        "support",
+        "trust"
+      ]
+    },
+    {
+      "name": "Taking responsibility without turning it into shame",
+      "category": "Self-compassion",
+      "keywords": [
+        "shame",
+        "responsibility",
+        "forgive",
+        "gentle"
+      ]
+    },
+    {
+      "name": "Letting help be ordinary",
+      "category": "Connection",
+      "keywords": [
+        "help",
+        "support",
+        "listen",
+        "alone"
+      ]
+    },
+    {
+      "name": "Making room for a different response",
+      "category": "Everyday recovery",
+      "keywords": [
+        "pause",
+        "awareness",
+        "choice",
+        "attention"
+      ]
+    },
+    {
+      "name": "Patience with a process that does not move in a straight line",
+      "category": "Everyday recovery",
+      "keywords": [
+        "patience",
+        "practice",
+        "change",
+        "time"
+      ]
+    },
+    {
+      "name": "Boundaries that make connection possible",
+      "category": "Relationships",
+      "keywords": [
+        "boundaries",
+        "needs",
+        "respect",
+        "relationship"
+      ]
+    },
+    {
+      "name": "Noticing what safety means to you",
+      "category": "Everyday recovery",
+      "keywords": [
+        "safe",
+        "trust",
+        "comfortable",
+        "care"
+      ]
+    }
+  ]
+}
