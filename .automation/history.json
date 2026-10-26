@@ -285,5 +285,46 @@
     "date": "2026-10-25",
     "slug": "2026-10-25-a-boundary-can-leave-room-for-someone-else-to-be-disappointed",
     "reading_minutes": 3
+  },
+  {
+    "title": "Care You Can Recognize Without Explaining Everything",
+    "summary": "Noticing what safety means can begin with the everyday qualities of care, even when belief and relationships remain complicated.",
+    "topic": "Recognizing trustworthy care without requiring complete certainty about beliefs or perfection in relationships",
+    "category": "Everyday recovery",
+    "paragraphs": [
+      "Safety can be a hard word to make specific. Someone may describe a gathering as welcoming or a relationship as close, while you remain unsure what those descriptions mean for you. In recovery, reducing harm, or reconsidering your relationship with alcohol or other drugs, that uncertainty deserves room. You can pay attention to how care actually shows up without first settling every question about the people, language, or setting around it.",
+      "In Came to Believe, published by Alcoholics Anonymous, a contributor describes difficulty with the religious language of the Third Step. The writer finds room within that language by interpreting it in a personally workable way. The passage questions the assumption that complete understanding must come before participation. It also challenges the belief that something worthwhile necessarily requires strenuous effort. For this contributor, receiving care need not become another demanding intellectual assignment.",
+      "That perspective leaves a useful everyday question: what care is recognizable before its meaning is fully explained? A group might use words you are still considering while making room for your uncertainty. Someone might respect your choice to listen quietly. These details do not settle whether a setting suits you, and they do not require you to adopt its beliefs. They give you something concrete to consider alongside the larger questions.",
+      "Sue Johnson approaches safety through a different doorway in Hold Me Tight. Her passage concerns how partners experience connection, including the difference between describing a relationship's present feel and judging someone's worth as a partner. She also directs attention toward what people have learned about depending on others. In this perspective, the same offer of closeness may carry different meanings for people whose earlier relationships taught them different expectations.",
+      "Read together, the passages suggest that recognizing care requires room for an unfinished understanding. The A.A. contributor is wrestling with spiritual interpretation; Johnson is discussing emotional connection between partners. Those are different concerns, and neither passage answers every question raised by the other. Still, both leave space between having everything figured out and noticing something meaningful about how care is offered or received.",
+      "Imagine someone attending a social gathering while choosing not to drink. A friend accepts that choice without asking for an explanation, then continues the conversation normally. The person may still feel awkward or uncertain about the evening. Yet there is a specific detail available to notice: a preference was respected without becoming a public discussion. That moment need not establish complete trust. It can simply become one piece of information about this friendship.",
+      "This also means that being comfortable cannot be the only measure. Familiar interactions may feel easy while leaving little room for your choices; a respectful new setting may feel unfamiliar. Johnson's attention to learned expectations makes that distinction worth considering, without requiring anyone to reconstruct their history. The A.A. contributor's willingness to leave some questions unresolved adds another possibility: uncertainty itself does not have to decide whether a particular expression of care matters.",
+      "For daily life, safety can remain a modest, specific word. It might mean that your answer is accepted, that disagreement leaves room for respect, or that someone allows your understanding to develop at its own pace. None of these observations obligates you to trust further or stay longer. They can help clarify what you value in support, whatever form your path takes. Care becomes easier to describe when you can name what someone actually does."
+    ],
+    "invitation": "If you like, write one sentence naming an everyday quality you would welcome in a supportive setting.",
+    "question": "What small detail helps you recognize care when you are still unsure how comfortable you feel?",
+    "sources": [
+      {
+        "book_id": 2,
+        "title": "Came to Believe",
+        "author": "Alcoholics Anonymous",
+        "isbn": "9780916856052",
+        "locator": "PDF page 184",
+        "quote": "It was a great relief to me to learn that I simply didn’t have to understand.",
+        "context_sha256": "e3ee18421f80cddf1e29c5e3325994d8707233d3789a47fb755694b0e123b6fc"
+      },
+      {
+        "book_id": 5,
+        "title": "Hold Me Tight: Seven Conversations for a Lifetime of Love",
+        "author": "Sue Johnson",
+        "isbn": "9780316031998",
+        "locator": "PDF page 54",
+        "quote": "your partner is talking about how safe and connected he or she feels right now in your relationship",
+        "context_sha256": "b04654afe01b292cadc7988f753f657da128c68ecc1adf7142e4008e28925cca"
+      }
+    ],
+    "date": "2026-10-26",
+    "slug": "2026-10-26-care-you-can-recognize-without-explaining-everything",
+    "reading_minutes": 3
   }
 ]
