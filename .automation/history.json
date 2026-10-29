@@ -367,5 +367,46 @@
     "date": "2026-10-27",
     "slug": "2026-10-27-you-do-not-owe-care-a-better-mood",
     "reading_minutes": 3
+  },
+  {
+    "title": "There Can Be More Than One Meaning in the Room",
+    "summary": "Recovery conversations can leave room for different meanings without making agreement the price of belonging.",
+    "topic": "Making room for personal meanings and disagreement in recovery communities without surrendering shared boundaries",
+    "category": "Connection",
+    "paragraphs": [
+      "A recovery conversation can become narrow without anyone intending it. Someone names what an experience means, others recognize it, and soon that explanation sounds like the explanation. For a person whose experience means something different, joining in can start to feel like choosing between honesty and membership. One useful question for a recovery community is whether people can participate without having to adopt the same account of their lives.",
+      "In Mindful Recovery, Thomas Bien and Beverly Bien discuss associations with dreams. Their attention is on the particular: an object has significance through the associations of the person who dreamed it, rather than through a meaning assigned in advance. They also acknowledge that a connection can be valid even when its relevance is not obvious. Without adopting their dream practices, we can consider an everyday implication: another person's meaning may deserve a hearing before it makes sense to us.",
+      "That matters in conversations about addiction and sobriety because familiar words can carry very different histories. Celebration might suggest companionship to one person and pressure to another. Discipline might mean a useful commitment, an unwelcome judgment, or something more complicated. A listener who assumes a shared definition may miss what the speaker is actually saying. Leaving room for a specific meaning allows someone to contribute more than the version of their story that fits the room.",
+      "Richard C. Schwartz approaches a related difficulty through the language of internal parts in No Bad Parts. In the supplied conversation, a person's concern for justice is entangled with ways of acting that have isolated him. Schwartz attends to the concern while also acknowledging the interpersonal difficulty. The passage gives us a distinction worth considering: understanding what someone cares about does not require approving every way they express it. Neither the concern nor its consequences have to disappear from the conversation.",
+      "The books are doing different work. The Biens are exploring personal associations; Schwartz is presenting a therapeutic conversation about competing commitments and relationships. These passages do not establish a method's effectiveness for addiction. Read as perspectives, though, they invite a focused reflection about belonging: people need room to explain what matters to them, and other people need room to respond honestly. Agreement cannot be the only available sign that someone has been heard.",
+      "Imagine someone in a recovery gathering saying that a familiar slogan feels discouraging. Another member finds that same slogan useful. The conversation could turn into a contest over which response is legitimate. It could also leave both accounts intact: one person can describe what the phrase means in their life, while the other explains its value in theirs. Neither has to recruit the whole room. The gathering can continue without producing an official feeling about the phrase.",
+      "This openness still needs limits around conduct. A personal interpretation does not excuse interrupting, insulting, or pressuring someone else. Shared boundaries make it possible to keep talking across differences; they need not settle what everyone believes. Someone pursuing sobriety, reducing harm, or considering a different path may have reasons others do not share. Listening closely means making an effort to understand those reasons while keeping everyone's choices and boundaries in view.",
+      "Belonging becomes more spacious when a person can contribute an unfamiliar meaning without being assigned the job of defending an entire worldview. A conversation can hold an unresolved difference and still include ordinary respect, practical help, and another invitation. There is value in a room where people can say what is true for them with care, hear an answer they would not give themselves, and remain participants in the conversation."
+    ],
+    "invitation": "If you like, write one sentence about a recovery-related word that has a particular meaning for you.",
+    "question": "What word or phrase would you like people in your support circle to understand more specifically from your perspective?",
+    "sources": [
+      {
+        "book_id": 1,
+        "title": "Mindful Recovery: A Spiritual Path to Healing from Addiction",
+        "author": "Thomas Bien and Beverly Bien",
+        "isbn": "0471442615",
+        "locator": "PDF page 181",
+        "quote": "Sometimes people try too hard, and interfere with the process of association.",
+        "context_sha256": "d535d9ee529155b04b50668df4346e622066804394f2622a67c675cec138648b"
+      },
+      {
+        "book_id": 7,
+        "title": "No Bad Parts",
+        "author": "Richard C. Schwartz",
+        "isbn": "",
+        "locator": "CHAPTER SEVEN (EPUB section 15)",
+        "quote": "my attempts just bring up other parts in other people.",
+        "context_sha256": "0a22a34a347828e808953e3c7d490274b40de6be927021cd8077429a8c0804b6"
+      }
+    ],
+    "date": "2026-10-28",
+    "slug": "2026-10-28-there-can-be-more-than-one-meaning-in-the-room",
+    "reading_minutes": 3
   }
 ]
