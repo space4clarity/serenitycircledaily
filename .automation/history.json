@@ -449,5 +449,46 @@
     "date": "2026-10-29",
     "slug": "2026-10-29-an-unfinished-apology-does-not-cancel-the-rest-of-your-day",
     "reading_minutes": 3
+  },
+  {
+    "title": "The Person Beside You Can Need Someone Beside Them",
+    "summary": "Support can have more room when the people who care about someone in recovery have places to be heard themselves.",
+    "topic": "Making room for supporters to receive support without treating it as a verdict on anyone’s recovery",
+    "category": "Connection",
+    "paragraphs": [
+      "When addiction touches a relationship, care can become organized around one person. Conversations return to how that person is doing, what they need, and what happens next. Those questions may matter deeply. Still, the person offering care has a life happening too. Letting them receive support can be part of ordinary companionship, without making their need for company into a judgment about someone else.",
+      "In The Recovery Book, Al J. Mooney describes mutual support fellowships for family members and loved ones. His attention here is on people affected by another person’s addiction, with their own questions and limits. He presents groups as places to meet others with relevant experience, and he acknowledges that groups differ in character. That leaves room for a useful distinction: caring about someone and having somewhere to discuss that care are separate needs.",
+      "Richard C. Schwartz approaches relationships from another direction in No Bad Parts. His discussion of systems thinking asks readers to consider patterns between people instead of understanding each person only in isolation. He also describes how a family’s unspoken beliefs about vulnerability can shape its responses to someone who needs attention. For this reflection, the useful question is what a relationship makes room for: whose worries can be heard, and whose are expected to stay quiet?",
+      "These passages have different purposes. Mooney offers practical guidance about family fellowships; Schwartz develops a broader perspective on relationships, including relationships within a person. Neither passage establishes that a particular kind of support will work for everyone. Read together, though, they invite consideration of an ordinary arrangement: people can care for each other while also having places outside that relationship where their own concerns are welcome.",
+      "Imagine someone who is reducing their drinking and a sibling who regularly checks in. The sibling has questions and would like to talk with a support group. The person reducing their drinking might feel exposed or worry that the sibling’s attendance means they have become a burden. Those feelings deserve consideration. The sibling’s wish for company also deserves room. Both people can matter without either having to settle the other’s feelings before seeking a conversation.",
+      "Support outside a relationship raises real questions about privacy. Having somewhere to speak does not erase another person’s interest in how their life is discussed. There is a meaningful difference between describing one’s own uncertainty and circulating intimate details about someone else. A relationship can include a conversation about that difference, even when the people involved do not immediately agree. Respect and the freedom to seek support both belong in the discussion.",
+      "There can also be an unstated rule that the person having the hardest time gets all the available care. That rule may come from affection, exhaustion, or habit. Yet it can leave everyone measuring whether their troubles are serious enough to mention. Schwartz’s attention to underlying beliefs makes that rule worth examining. Mooney’s attention to family support offers one concrete alternative: a loved one can have a place to be heard in their own right.",
+      "Whether someone is sober, reducing harm, beginning recovery, or finding their own path, relationships still contain more than one person’s experience. A supporter does not have to become endlessly available to demonstrate love. A person receiving support does not have to interpret every outside conversation as a report on their progress. There may be uncertainty on both sides. Making room for each person to receive care allows that uncertainty to be shared more fairly."
+    ],
+    "invitation": "If you like, write one sentence about what you hope a person who supports you has available for themselves.",
+    "question": "What feelings come up when you imagine someone who cares about you having a place to be supported too?",
+    "sources": [
+      {
+        "book_id": 3,
+        "title": "The Recovery Book",
+        "author": "Al J. Mooney",
+        "isbn": "9780761183150",
+        "locator": "PDF page 846",
+        "quote": "These resources remind you that you’re not alone",
+        "context_sha256": "c731a45f44825b85ea124e935d9c23fdf76edcad23f3de171ee075fdaa74d9a6"
+      },
+      {
+        "book_id": 7,
+        "title": "No Bad Parts",
+        "author": "Richard C. Schwartz",
+        "isbn": "",
+        "locator": "CHAPTER FOUR (EPUB section 11)",
+        "quote": "Systems thinking focuses on the ways members of a system relate to one another.",
+        "context_sha256": "77854a598aec249bd05f1c7c3538bcd052f4583a8b0d9a3e20bde2198d19e791"
+      }
+    ],
+    "date": "2026-10-30",
+    "slug": "2026-10-30-the-person-beside-you-can-need-someone-beside-them",
+    "reading_minutes": 3
   }
 ]
