@@ -70,6 +70,7 @@ def render_post(post):
     body = f'''<div class="post-shell wrap"><a class="back-link" href="../archive.html">← All reflections</a>
 <article><header class="post-heading"><div class="eyebrow"><span>{E(post['category'])}</span><span>DAILY REFLECTION · {label(post['date'])}</span></div>
 <h1>{E(post['title'])}</h1><p class="post-deck">{E(post['summary'])}</p><p class="reading-time">{post['reading_minutes']} minute read</p></header>
+<picture class="post-book"><source media="(prefers-reduced-motion: reduce)" srcset="../assets/flipping-pages-still.jpg"><img src="../assets/flipping-pages.gif" width="640" height="360" alt="A Serenity Circle Daily book with turning pages."></picture>
 <div class="post-layout"><aside class="margin-note"><span class="eyebrow">A LINE TO BEGIN</span><blockquote>{E(quote['quote'])}</blockquote><p>{E(quote['author'])}<br><cite>{E(quote['title'])}</cite></p><span class="tiny-circle" aria-hidden="true"></span></aside>
 <div class="prose">{''.join('<p>'+E(p)+'</p>' for p in post['paragraphs'])}
 <section class="invitation"><span class="eyebrow">A SMALL INVITATION</span><p>{E(post['invitation'])}</p></section>
