@@ -531,5 +531,46 @@
     "date": "2026-10-31",
     "slug": "2026-10-31-a-suggestion-can-be-considered-without-becoming-an-assignment",
     "reading_minutes": 3
+  },
+  {
+    "title": "Change Does Not Have to Announce Itself",
+    "summary": "A reflection on giving quiet, everyday changes room to matter when recovery does not offer a clear before and after.",
+    "topic": "Allowing gradual change to matter without requiring a dramatic turning point or a daily verdict on progress",
+    "category": "Everyday recovery",
+    "paragraphs": [
+      "Recovery can come with an expectation of a recognizable turning point: a day when your choices make sense, your confidence arrives, and the difference becomes obvious. Without that moment, it can be hard to know what to make of an ordinary week. You may be putting time into sobriety, reducing harm, or exploring support while still feeling uncertain. That uncertainty can make you ask for a verdict sooner than your experience can offer one.",
+      "In Came to Believe, published by Alcoholics Anonymous, a contributor describes spiritual change without a dramatic arrival. Prayer does not bring an immediate transformation. Reading familiar recovery material again reveals something the writer had missed before, and faith develops over time. The account places importance on continuing daily life while understanding remains incomplete. Its religious commitment is specific and central to this person's experience; readers do not have to share that commitment to consider the patience expressed within it.",
+      "One detail deserves attention: the contributor stops treating life as an ongoing demonstration for other people. That shift offers a useful question about how we recognize change. If progress has to be impressive enough to convince an audience, much of everyday life will seem insufficient. A quieter conversation or a less hurried decision might barely register. Yet those experiences can still matter to the person living them, even when they would make an uneventful story.",
+      "Adult Children of Alcoholics / Dysfunctional Families brings a different emphasis. Its discussion of Step Ten describes learning to recognize what someone is doing well alongside what needs attention. It also locates practice in ordinary settings, including home and work, where intentions meet inconvenience and other people's needs. Gradual improvement belongs to that everyday effort. This perspective makes room for an account of change that includes useful actions without requiring flawless behavior.",
+      "These passages have distinct concerns. The Came to Believe contributor understands sobriety through accepting God and the A.A. program. The ACA passage discusses a continuing practice of honesty, affirmation, and participation in its fellowship. Both speak from spiritual recovery traditions, but they are not interchangeable accounts or evidence that a method will work for everyone. Their shared invitation here is narrower: allow time for changes that may be difficult to recognize as they happen.",
+      "Imagine someone who has been trying to make evenings less centered on drinking. One evening feels dull and unsettled, and they conclude that nothing is different. Later, they remember that they made a meal and answered a friend's message instead of leaving it unopened. Those details do not settle every question about their drinking or their next choice. They do, however, belong in the description of that evening. Discomfort does not make the rest of the evening disappear.",
+      "Patience can mean leaving the verdict open while staying specific about what happened. Some days contain a welcome difference; others contain disappointment, mixed choices, or little that feels notable. There is no obligation to turn each one into a lesson. Nor does a useful action have to become evidence that everything is improving. It can remain one useful action, with its own modest value, while larger questions take longer.",
+      "For someone finding their own recovery path, this leaves room to live without constantly producing a convincing account of progress. You can value an ordinary choice before knowing whether it marks a lasting change. You can also want more support or a different direction without declaring the time already spent meaningless. A process can remain unfinished and still contain moments worth keeping."
+    ],
+    "invitation": "If you like, write one sentence about an ordinary choice you valued recently, without deciding what it says about your overall progress.",
+    "question": "What quiet difference in your daily life would you like to acknowledge without asking it to prove anything?",
+    "sources": [
+      {
+        "book_id": 2,
+        "title": "Came to Believe",
+        "author": "Alcoholics Anonymous",
+        "isbn": "9780916856052",
+        "locator": "PDF page 81",
+        "quote": "I don’t recall any immediate, dramatic change in my life.",
+        "context_sha256": "18749c882521a42b7a74322c957ba98a3cfe33f2fa6e9c37aa08bacb2f3f3376"
+      },
+      {
+        "book_id": 6,
+        "title": "Adult Children of Alcoholics / Dysfunctional Families",
+        "author": "Adult Children of Alcoholics World Service Organization",
+        "isbn": "",
+        "locator": "EPUB section 37 (EPUB section 37)",
+        "quote": "With Step Ten, our personal and spiritual lives improve gradually.",
+        "context_sha256": "1998d2be6d7c1b857f7789819e50e028fa0546180d9ffaea55591ed70845d788"
+      }
+    ],
+    "date": "2026-11-01",
+    "slug": "2026-11-01-change-does-not-have-to-announce-itself",
+    "reading_minutes": 3
   }
 ]
