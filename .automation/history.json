@@ -572,5 +572,46 @@
     "date": "2026-11-01",
     "slug": "2026-11-01-change-does-not-have-to-announce-itself",
     "reading_minutes": 3
+  },
+  {
+    "title": "Closeness Needs Permission, Even When We Miss Each Other",
+    "summary": "Recovery can include wanting more connection while allowing each relationship to have its own pace, shape, and limits.",
+    "topic": "Respecting another person’s choice about closeness while making room for your own need for connection",
+    "category": "Relationships",
+    "paragraphs": [
+      "Wanting to be close to someone does not tell us how much closeness they want today. That gap can feel especially tender when alcohol or drug use has affected a relationship. A person may be making changes and longing to share ordinary life again, while someone they love still wants distance. A boundary makes room for both realities: one person can want contact, and the other can have a choice about it.",
+      "In The Recovery Book, Al J. Mooney describes the limits of returning to family life after becoming sober. Sobriety does not automatically restore authority over household decisions or determine how much time children should spend with a parent. The point is concrete: making a significant change in your own life does not give you control over someone else’s participation. Other people still have routines, preferences, and relationships that belong to them.",
+      "Mooney places this discussion within a particular recovery timeline and emphasizes earning back trust. Adult Children of Alcoholics / Dysfunctional Families approaches relationships through the ACA program, including attention to control and the fear of being left. Its discussion asks readers to recognize other people as individuals rather than people to possess. These are distinct perspectives, but both raise a useful question about closeness: how much choice are we allowing the other person?",
+      "The ACA passage also recognizes friendship, work relationships, casual acquaintances, and time alone as parts of a life. That wider view matters when one strained relationship starts carrying every hope for belonging. A partner cannot be an entire social world. A child cannot be responsible for reassuring a parent that everything is repaired. Valuing different kinds of connection leaves more room to discover what each relationship can actually hold.",
+      "Imagine someone who is reducing their drinking and wants to resume a standing Sunday dinner with a sibling. The sibling is willing to meet for coffee occasionally but does not want to restart the weekly arrangement. Coffee might feel painfully small beside the closeness that person misses. Still, it is a real offer with a particular shape. Accepting it need not mean pretending the loss does not hurt, and wanting more does not make more available.",
+      "There is a boundary for the person seeking connection, too. They can consider whether the offered contact works for them. They can prefer a different time, decline a conversation that becomes insulting, or decide they need company elsewhere that day. Respecting someone else’s freedom does not require being endlessly available on their terms. A workable invitation leaves each person able to answer honestly, including when their answers do not match.",
+      "Neither passage gives us grounds to promise that patient, respectful contact will restore a particular relationship. Someone may keep their distance. A connection may take a different form than either person expected. That uncertainty is part of why choice matters: kindness cannot serve as a deposit that makes future access owed. Honest care can include making an offer without treating acceptance as the payment for having changed.",
+      "Whether you are sober, reducing harm, beginning recovery, or finding your own path, it may help to separate expressing a wish from deciding its outcome. You can say that you miss someone, ask about spending time together, and leave room for their answer. You can also look for companionship that is available now. Connection has more room to be mutual when nobody has to surrender their say in order to participate."
+    ],
+    "invitation": "If you like, write one sentence about a kind of contact you would welcome, leaving its timing open to the other person.",
+    "question": "What kind of connection would feel welcome to you while leaving both people room to choose?",
+    "sources": [
+      {
+        "book_id": 3,
+        "title": "The Recovery Book",
+        "author": "Al J. Mooney",
+        "isbn": "9780761183150",
+        "locator": "PDF page 376",
+        "quote": "Nor can you dictate to your children what your relationship with them will be,",
+        "context_sha256": "a083b403619a8be1c08293667030fb0dae8143d9c22e8a3e7e22c780c590f237"
+      },
+      {
+        "book_id": 6,
+        "title": "Adult Children of Alcoholics / Dysfunctional Families",
+        "author": "Adult Children of Alcoholics World Service Organization",
+        "isbn": "",
+        "locator": "EPUB section 48 (EPUB section 48)",
+        "quote": "We can love someone and empathize with the person’s feelings,",
+        "context_sha256": "1024e8ea88177faff587af98b8e2610a76297042a598f62596a3921ba0ee8691"
+      }
+    ],
+    "date": "2026-11-02",
+    "slug": "2026-11-02-closeness-needs-permission-even-when-we-miss-each-other",
+    "reading_minutes": 3
   }
 ]
