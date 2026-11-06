@@ -736,5 +736,46 @@
     "date": "2026-11-05",
     "slug": "2026-11-05-one-relationship-does-not-have-to-hold-everything",
     "reading_minutes": 3
+  },
+  {
+    "title": "You Can Keep the Value and Question the Harshness",
+    "summary": "Recovery can include choosing which inherited standards deserve a place in daily life and which ways of enforcing them you want to reconsider.",
+    "topic": "Keeping meaningful values while questioning the harshness that has become attached to them",
+    "category": "Self-compassion",
+    "paragraphs": [
+      "Some standards arrive with a voice attached. Being dependable may come with the expectation that mistakes deserve a scolding. Honesty may feel inseparable from exposing every flaw. In recovery, a person can care deeply about these values while wondering whether the severity surrounding them still belongs. That is a specific kind of responsibility: deciding how to carry forward what matters without automatically repeating how it was enforced.",
+      "In No Bad Parts, Richard C. Schwartz describes both qualities he values in his father and the anger that made their relationship confusing. He recognizes courage, scientific dedication, warmth, and a commitment to helping others alongside painful behavior. His account leaves room for a complicated inheritance. Appreciating something received from another person does not require endorsing everything that accompanied it. Neither does questioning their harshness erase the qualities worth keeping.",
+      "That distinction offers a useful perspective on the standards people bring into sobriety or efforts to reduce harm. Perhaps perseverance matters to you, but you learned to associate it with never admitting difficulty. Perhaps consideration matters, but it came bundled with the demand to anticipate everyone's needs. You can examine those pairings. The value and the demand may have traveled together for years without needing to remain together forever.",
+      "Thomas Bien and Beverly Bien approach a related difficulty in Mindful Recovery. In the supplied passage, a mistake becomes an accusation of failure at mindfulness itself. A practice intended to offer a caring way of paying attention becomes another standard against which the person judges herself. The authors then describe a gentler attention that neither denies difficult feelings nor treats them as the whole person. The relevant tension is between valuing a practice and using it to prosecute yourself.",
+      "These books offer different perspectives. The Biens describe a spiritual understanding of attention, while Schwartz uses the language of inner parts and reflects on family influence. Their accounts do not establish that any method works for everyone. Read together here, though, they invite a practical distinction: something valuable can become entangled with a punishing way of pursuing it. We can consider that entanglement without adopting either author's full framework.",
+      "Imagine someone who values reliability and has agreed to help prepare a community meal. They realize they have taken on more than they can finish. Their familiar standard demands silent overwork, because asking for help supposedly cancels dependability. Another interpretation of the same value would make room for an early, accurate update about what remains unfinished. The commitment still matters. What changes is the rule that fulfilling it must involve hiding every limit.",
+      "The question is not whether every uncomfortable expectation should disappear. Other people can reasonably want honesty, notice, or follow-through. But humiliation need not become an additional obligation. For someone building a sober life or choosing another recovery path, it may be worth noticing when a useful commitment acquires extra terms: no uncertainty, no mistakes, no need for assistance. Those terms deserve their own consideration instead of borrowing authority from the value beside them.",
+      "There may be grief or loyalty involved in reconsidering an inherited standard, especially when it came from someone you love. You do not have to settle your entire history to make one present-day distinction. Caring about your word can remain important. Speaking to yourself with contempt can remain open to question. Choosing what to carry forward is an ongoing responsibility, and it allows your values to become more deliberately your own."
+    ],
+    "invitation": "If you like, write down one value you want to keep and one harsh expectation you would like to reconsider.",
+    "question": "What value matters to you that you would like to carry in a gentler way?",
+    "sources": [
+      {
+        "book_id": 1,
+        "title": "Mindful Recovery: A Spiritual Path to Healing from Addiction",
+        "author": "Thomas Bien and Beverly Bien",
+        "isbn": "0471442615",
+        "locator": "PDF page 82",
+        "quote": "She accused herself of failing in her mindfulness practice",
+        "context_sha256": "0e0aea4e7a0a47b891ec82f3df41c4a191c3d98e9a48f83c5e47511f8f8d69c9"
+      },
+      {
+        "book_id": 7,
+        "title": "No Bad Parts",
+        "author": "Richard C. Schwartz",
+        "isbn": "",
+        "locator": "CHAPTER ELEVEN (EPUB section 20)",
+        "quote": "I got a lot of good qualities from him too.",
+        "context_sha256": "f36f8b71c6b4734ec2aed2dcbd8b359fad6f19dc122437f335744938a95e88be"
+      }
+    ],
+    "date": "2026-11-06",
+    "slug": "2026-11-06-you-can-keep-the-value-and-question-the-harshness",
+    "reading_minutes": 3
   }
 ]
