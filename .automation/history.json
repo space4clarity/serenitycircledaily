@@ -777,5 +777,46 @@
     "date": "2026-11-06",
     "slug": "2026-11-06-you-can-keep-the-value-and-question-the-harshness",
     "reading_minutes": 3
+  },
+  {
+    "title": "Support Does Not Need a Case Against Your Life",
+    "summary": "There can be room for support while parts of life are going well and your feelings about accepting it remain mixed.",
+    "topic": "Letting support belong in an ordinary, imperfect life without having to prove that everything has fallen apart",
+    "category": "Connection",
+    "paragraphs": [
+      "Accepting help can seem to require an argument against your own life. You start listing what is difficult, then immediately remember what is going well. There is food in the kitchen. Someone cares about you. You made it through work. Those facts matter, but they do not settle whether company or support would be welcome. Recovery does not have to become a case you must prove by presenting enough losses.",
+      "In the supplied passage from Alcoholics Anonymous’ Came to Believe, the narrator initially treats outward success as evidence that help is unnecessary. A home, money, and family sit alongside doubts about whether fellowship could offer anything worthwhile. The narrator also questions the people offering care. The obstacle is more than an unwillingness to ask: it includes a belief that needing others would contradict being capable and having a respectable life.",
+      "The passage eventually reaches a desperate appeal to God. That spiritual turning point belongs to this narrator’s account; readers do not have to adopt its beliefs or repeat its circumstances. One question the account leaves us with is why help had to become acceptable only after so much was lost. A personal story can describe the moment someone finally asked without establishing a threshold everyone else must reach.",
+      "Richard C. Schwartz approaches willingness differently in No Bad Parts. In the supplied passage, he describes conflicting inner positions and emphasizes that trust may take time. Difficulty participating does not become evidence of personal failure. His account gives hesitation a history and a concern, rather than treating it as something that must immediately disappear. This is a perspective on understanding reluctance, not proof that his method treats addiction.",
+      "These works are doing different things. Came to Believe presents a narrator’s movement toward spiritual help and fellowship; Schwartz discusses relationships among what he calls parts of a person. Still, both passages make room to question a familiar assumption: that a capable person should have no need for support. Read together, they also leave space for accepting some company before feeling completely persuaded about what help means.",
+      "Imagine someone who has finished a demanding workday and is considering joining a friend for a quiet meal. They are managing their responsibilities and also finding the evening difficult. They feel interested in company and annoyed at the thought of needing it. Nothing in this ordinary situation requires them to declare their whole life unmanageable. They can choose dinner with mixed feelings, without making the invitation a verdict on their independence or recovery.",
+      "That distinction matters whether someone is sober, reducing harm, beginning recovery, or deciding what their path will look like. Support can fit alongside competence. Hesitation can fit alongside a decision to accept it. Neither the good parts of life nor uncertainty about receiving care has to cancel the possibility of connection. There is also room to decline an offer that does not fit; availability alone does not make every form of help useful.",
+      "Letting help be ordinary means allowing it a place in the life that already exists, with its responsibilities, pleasures, difficulties, and unfinished decisions. It need not wait for a dramatic explanation. Nor must receiving it produce immediate gratitude or certainty. A person can value what they have, remain unsure about depending on others, and still make room for someone to be present on an otherwise unremarkable day."
+    ],
+    "invitation": "If you like, write one sentence naming something that is going well and one kind of company you would still welcome.",
+    "question": "What kind of ordinary company would feel welcome alongside the things you are already managing?",
+    "sources": [
+      {
+        "book_id": 2,
+        "title": "Came to Believe",
+        "author": "Alcoholics Anonymous",
+        "isbn": "9780916856052",
+        "locator": "PDF page 54",
+        "quote": "So I wasn’t asking God, or anyone else, for help.",
+        "context_sha256": "c3105f3e1ba3c0e56a83bb80d5ccc650941c88bf9e8532af94845a77b9d5b38d"
+      },
+      {
+        "book_id": 7,
+        "title": "No Bad Parts",
+        "author": "Richard C. Schwartz",
+        "isbn": "",
+        "locator": "CHAPTER THREE (EPUB section 10)",
+        "quote": "it will take more time to build up their trust in you",
+        "context_sha256": "8a73c91ae270af7ce1c1cb0189e261ae621959c1e780b263e51f36807b868705"
+      }
+    ],
+    "date": "2026-11-07",
+    "slug": "2026-11-07-support-does-not-need-a-case-against-your-life",
+    "reading_minutes": 3
   }
 ]
