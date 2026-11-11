@@ -941,5 +941,46 @@
     "date": "2026-11-10",
     "slug": "2026-11-10-there-is-room-to-talk-about-something-else",
     "reading_minutes": 3
+  },
+  {
+    "title": "Knowing What Happens Next Can Matter",
+    "summary": "A little practical orientation can make room for a more informed choice about a new recovery space.",
+    "topic": "Noticing how clear information and an understandable welcome shape the experience of entering a recovery space",
+    "category": "Everyday recovery",
+    "paragraphs": [
+      "Entering a new recovery space can come with very ordinary uncertainties. Where do people sit? Will someone explain what happens? Can you listen before deciding whether to speak? These details may seem small beside the larger questions surrounding alcohol, drugs, or sobriety. Yet they belong to the experience of seeking support. Noticing what safety means to you can include noticing how much you understand about the place you are entering.",
+      "In The Recovery Book, Al J. Mooney responds to someone who feels frightened about entering a rehabilitation program. He suggests learning about the program and looking at the setting beforehand. His discussion sits within a particular approach to treatment and continuing care. One useful idea within that context is that an unfamiliar place becomes more understandable through concrete information. A description of the rooms or an explanation of the schedule gives a person something specific to consider.",
+      "The Adult Children of Alcoholics World Service Organization approaches unfamiliarity through its guidance for welcoming newcomers. The passage acknowledges that people can receive literature and telephone numbers while still feeling confused about what to do. It describes offering an introduction and explaining basic elements of the program without presenting everything at once. That distinction matters: being greeted warmly and being helped to understand a setting are related, but they are separate kinds of welcome.",
+      "These works have different purposes. Mooney discusses treatment settings and ongoing support, while the ACA text describes a fellowship organized around the Twelve Steps and a spiritual understanding of recovery from family dysfunction. Neither perspective needs to become everyone's route. Read together here, they invite a narrower reflection: people deserve enough information to understand what participation involves. Enthusiasm about a place does not answer every practical question someone may bring to its door.",
+      "Imagine arriving at an unfamiliar support gathering after work. Someone welcomes you, points out an available chair, and explains when the gathering ends and whether speaking is optional. You might still feel unsure. You might decide the group does not fit. But you have more information with which to make that decision. The value of the explanation does not depend on your becoming comfortable immediately or returning the following week.",
+      "Clear information also leaves room to distinguish between what you know and what remains uncertain. Knowing the format cannot establish that every interaction will feel respectful. Seeing a pleasant room cannot tell you how someone will respond to a concern. Still, those limits do not make practical details meaningless. They let you assess one part of the experience without asking that part to settle every question about trust.",
+      "For someone who is sober, reducing harm, beginning recovery, or exploring their own path, unfamiliar customs can add another layer of work. A place may use terms that regular participants no longer think to explain. A newcomer may need an ordinary answer about timing, expectations, or whom to approach. Needing that information says nothing about their commitment. Understanding the setting is part of having a meaningful choice about being there.",
+      "Safety is a large word, and no brief description can establish everything it might mean to you. Sometimes the useful detail is modest: whether expectations are stated clearly, whether a question receives a direct answer, or whether there is time to consider what you have heard. Those details are worth noticing on their own terms. You can let them inform your next decision without requiring yourself to reach a final judgment about the whole place."
+    ],
+    "invitation": "If you like, write down one practical detail you would want to know before visiting an unfamiliar support space.",
+    "question": "What would you want someone to explain when welcoming you into a new recovery space?",
+    "sources": [
+      {
+        "book_id": 3,
+        "title": "The Recovery Book",
+        "author": "Al J. Mooney",
+        "isbn": "9780761183150",
+        "locator": "PDF page 187",
+        "quote": "Ease your anxiety by learning as much as you can about the rehab program you’re going to.",
+        "context_sha256": "bd6175a04f28d83266e5e05e81eb572784e354133b6b21813d0a0154bffc25c9"
+      },
+      {
+        "book_id": 6,
+        "title": "Adult Children of Alcoholics / Dysfunctional Families",
+        "author": "Adult Children of Alcoholics World Service Organization",
+        "isbn": "",
+        "locator": "EPUB section 73 (EPUB section 73)",
+        "quote": "Many newcomers have expressed confusion over what they should be doing in the ACA program.",
+        "context_sha256": "9fd6c33569f5c57566d563c24db95e4b0fc4b545593347c33658d3e88a588c8b"
+      }
+    ],
+    "date": "2026-11-11",
+    "slug": "2026-11-11-knowing-what-happens-next-can-matter",
+    "reading_minutes": 3
   }
 ]
