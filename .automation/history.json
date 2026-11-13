@@ -1023,5 +1023,46 @@
     "date": "2026-11-12",
     "slug": "2026-11-12-care-can-change-shape-without-losing-its-meaning",
     "reading_minutes": 3
+  },
+  {
+    "title": "Belonging Does Not Have to Look Like a Family Reunion",
+    "summary": "Recovery stories often celebrate restored families, but connection can matter even when your own relationships have a different shape.",
+    "topic": "Making room for belonging when your life does not resemble a story of family reunion",
+    "category": "Connection",
+    "paragraphs": [
+      "A recovery story that ends with a happy family reunion can carry an unintended question for the reader: where does that leave me? Perhaps relatives are absent, a partnership has ended, or contact remains limited. Someone can appreciate another person’s restored relationships while feeling the distance between that ending and their own life. That distance deserves room, without becoming a measure of whether they belong.",
+      "In the supplied passage from Alcoholics Anonymous’ Came to Believe, the narrator describes renewed faith, forgiveness of self, and eventually stronger family bonds. The reunion matters because these particular relationships mattered to the narrator. Sobriety is described as reaching into many parts of life, beyond abstinence alone. This is a personal account of spiritual meaning and renewed trust; its ending need not become an assignment for everyone reading it.",
+      "Sue Johnson approaches connection from a different direction in Hold Me Tight. She argues that warmth and responsiveness between partners can influence how care is expressed within families and beyond them. Her attention moves outward toward community. Read as a perspective on relationships, the passage asks us to notice that the way people treat one another can matter beyond a single exchange. It does not establish a required family structure or a method for addressing addiction.",
+      "These passages give family relationships considerable weight, though they do different things with that emphasis. Came to Believe tells one person’s story of spiritual renewal and reunion. Johnson makes a broader argument about the social value of loving relationships. Neither passage directly explores all the ways people live without those relationships. Still, together they invite a useful question: can we value the care described here without making its particular setting the admission requirement for belonging?",
+      "For someone who is sober, reducing harm, or beginning to consider change, that distinction can be practical. A family reunion may be wanted, impossible, uncertain, or unwelcome. None of those circumstances has to settle whether ordinary companionship is available or deserved. A person can have unresolved family history and still have a place in a conversation, a shared activity, or a gathering where their presence is welcome.",
+      "Imagine someone attending a neighborhood gardening afternoon after hearing a recovery story centered on reconciliation with children. They have no contact with their own adult child. During the afternoon, another volunteer remembers their name and asks which plants they prefer. That small exchange does not resolve the estrangement. It also does not need to resolve it to count as connection. The person can participate without presenting a happier family story first.",
+      "There is a difference between honoring a relationship we miss and making every present relationship answer for its absence. An acquaintance cannot supply a lost history. A community gathering cannot promise reconciliation. But these limits leave room for something specific: being known in the life happening now. Johnson’s emphasis on care extending into community offers a way to consider that possibility, while the personal account in Came to Believe reminds us how much particular bonds can mean.",
+      "Belonging can include grief about who is missing. It can include hope for repair, or a decision to keep distance. There is no need to force those experiences into a reunion ending before accepting a place among other people. Another person’s story can remain meaningful on its own terms, while yours leaves room for relationships whose shape is still unfolding."
+    ],
+    "invitation": "If you like, write one sentence naming a place where you can participate without explaining your family history.",
+    "question": "What kind of everyday welcome would feel meaningful in your life as it is now?",
+    "sources": [
+      {
+        "book_id": 2,
+        "title": "Came to Believe",
+        "author": "Alcoholics Anonymous",
+        "isbn": "9780916856052",
+        "locator": "PDF page 29",
+        "quote": "Since that day, I trust and am trusted.",
+        "context_sha256": "a174cc05a8c2b8d87bbf6ca2474098f029ad5b8ae7f620275bbfe97205c66366"
+      },
+      {
+        "book_id": 5,
+        "title": "Hold Me Tight: Seven Conversations for a Lifetime of Love",
+        "author": "Sue Johnson",
+        "isbn": "9780316031998",
+        "locator": "PDF page 225",
+        "quote": "Better relationships between love partners are not just a personal preference, they are a social good.",
+        "context_sha256": "cb2f3fdabf5d5dbdd4ecad70a86cdb8eddde0e253b0376fccaa76d447756c8b4"
+      }
+    ],
+    "date": "2026-11-13",
+    "slug": "2026-11-13-belonging-does-not-have-to-look-like-a-family-reunion",
+    "reading_minutes": 3
   }
 ]
