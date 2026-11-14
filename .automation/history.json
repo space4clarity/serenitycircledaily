@@ -1064,5 +1064,46 @@
     "date": "2026-11-13",
     "slug": "2026-11-13-belonging-does-not-have-to-look-like-a-family-reunion",
     "reading_minutes": 3
+  },
+  {
+    "title": "Regret Cannot Tell Us What Someone Else Needs",
+    "summary": "A reflection on taking another person’s hurt seriously without making your own shame the measure of what happened.",
+    "topic": "Letting another person describe what mattered to them without treating shame as a measure of responsibility",
+    "category": "Self-compassion",
+    "paragraphs": [
+      "Feeling ashamed about something can make it seem as though we understand its full weight. We have replayed it, regretted it, perhaps imagined every possible consequence. But private regret does not tell us exactly what another person experienced. In recovery, one useful distinction is between knowing that we feel bad and understanding what mattered to someone affected by our actions. Those are different kinds of knowledge.",
+      "In The Recovery Book, Al J. Mooney separates responsibility for past actions from the question of which details to disclose and to whom. His discussion places considerable weight on avoiding hurt through disclosure, while still making amends within a twelve-step approach. That distinction raises a worthwhile question even for readers following other paths: is the purpose of a conversation to address something another person needs, or to get relief from carrying it ourselves?",
+      "Some of Mooney’s advice goes further, recommending that certain details remain undisclosed and that evidence be removed. That is a difficult recommendation to carry into relationships where another person may need information to make their own choices. Concern about causing hurt does not settle what someone deserves to know. We can consider the difference between useful honesty and unloading guilt without assuming that our discomfort gives us the authority to decide another person’s needs.",
+      "Sue Johnson’s Hold Me Tight places the emphasis elsewhere. In the supplied passage, she describes how forgiveness alone does not necessarily restore trust. She also argues that the significance of an injury depends on what it touches for the person who was hurt. An event that one partner considers minor may carry considerable meaning for the other. Her perspective asks us to leave room for an account of the hurt that we could not have written ourselves.",
+      "Read together, these passages draw attention to the limits of using our own feelings as a guide to repair. Mooney considers whether disclosure serves the relationship; Johnson considers whether the injured person’s experience has been understood. They do not offer identical answers about openness. Still, both make it possible to question the assumption that expressing enough remorse completes our responsibility. The intensity of regret and the usefulness of a response are separate matters.",
+      "Consider a hypothetical missed dinner during a period when someone is changing their drinking. The person who missed it may feel ashamed about being unreliable. Their friend may be most upset that they waited without a message and did not know whether to order food or leave. That detail matters. It gives the hurt a particular shape instead of leaving both people with a sweeping judgment about whether someone is a good friend.",
+      "Self-compassion has a place here because understanding a specific consequence does not require agreeing with every harsh conclusion we have drawn about ourselves. We can acknowledge that someone was left waiting without declaring ourselves incapable of care. We can also hear that their experience differed from what we expected. Their account may contain something we need to consider, even when we have already spent a long time regretting the event.",
+      "Whether you are sober, reducing harm, or figuring out your next choice, you do not have to make shame the spokesperson for everyone involved. Another person may need information, acknowledgment, a practical change, or some distance. They may still be deciding. Responsibility can include allowing that uncertainty, while keeping our attention on what actually happened and what remains ours to address. We do not need a final verdict on our worth to take a particular hurt seriously."
+    ],
+    "invitation": "If you like, write one sentence about a consequence you understand and one thing about the other person’s experience you do not yet know.",
+    "question": "Where might there be room for someone’s experience to differ from what your regret has led you to imagine?",
+    "sources": [
+      {
+        "book_id": 3,
+        "title": "The Recovery Book",
+        "author": "Al J. Mooney",
+        "isbn": "9780761183150",
+        "locator": "PDF page 368",
+        "quote": "Honesty is important in any relationship—as long as it doesn’t hurt someone.",
+        "context_sha256": "54638e151836d3561b62a86d99c94217ed30e588482de2719cf94a371c986784"
+      },
+      {
+        "book_id": 5,
+        "title": "Hold Me Tight: Seven Conversations for a Lifetime of Love",
+        "author": "Sue Johnson",
+        "isbn": "9780316031998",
+        "locator": "PDF page 149",
+        "quote": "Renewed trust is the ultimate goal.",
+        "context_sha256": "3b6ab3f0bb6c386c3bfa53b2208585e4946a8f0cde5045200809bf16f75e2b31"
+      }
+    ],
+    "date": "2026-11-14",
+    "slug": "2026-11-14-regret-cannot-tell-us-what-someone-else-needs",
+    "reading_minutes": 3
   }
 ]
