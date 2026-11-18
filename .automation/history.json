@@ -1187,5 +1187,45 @@
     "date": "2026-11-16",
     "slug": "2026-11-16-a-reply-does-not-have-to-arrive-at-the-speed-of-worry",
     "reading_minutes": 3
+  },
+  {
+    "title": "When Recovery Starts to Feel Like a Performance Review",
+    "summary": "Consider what the urge to look convincing can crowd out when you’re changing your relationship with alcohol or other drugs.",
+    "topic": "How the urge to prove progress can crowd out honest attention to everyday recovery",
+    "category": "Everyday recovery",
+    "paragraphs": [
+      "It can be tiring to change your relationship with alcohol or other drugs and spend the same day thinking about how those changes look to everyone else. A plain account of the week can start to feel too thin. You might find yourself editing it until it sounds decisive, with a clear explanation of what’s changed and a confident account of what comes next. By the time you’ve found the right wording, you may have spent very little time on the parts of the week you actually wanted to talk about.",
+      "In The Recovery Book, Al J. Mooney raises a question that helps explain that impulse. How do you persuade other people you’re serious this time? He places that concern alongside the everyday fact that even when recovery needs much of your attention, you still share a home, a workplace, or a family with other people. His advice about where to put your effort follows from a limit he sees in those interactions. Other people get to form their own impressions.",
+      "Richard C. Schwartz looks at a different kind of pressure in No Bad Parts. He describes people whose familiar ambitions lose some of their pull after an unsettling event. In his account, habits of striving can take over again and leave little room for discovering what else matters to them. His language of parts offers a way to think about how one motive can get so much attention that other interests and needs become hard to hear.",
+      "Mooney writes about priorities in early recovery within a framework of stages. Schwartz is interested in how striving comes to dominate a person’s inner life and how they might relate differently to it. Read together, their perspectives raise a practical concern. The effort to sound like you have everything in hand can take up some of the attention you need to understand what is asking the most of you right now.",
+      "Imagine you’re cutting back and a friend asks how the week went while you’re putting away groceries together. You say it was a good week because that feels like an answer you can both be glad about. It was a good week in several ways. You also spent Friday afternoon sidestepping questions about whether you’d come out that evening, and by dinnertime you wished somebody knew how awkward it had felt. The upbeat answer gets you through the conversation. The awkward part is still the thing you’d most like to tell someone.",
+      "There are good reasons to give a short answer. Privacy matters, and a person who asks casually may have only a minute to listen. You can keep an answer brief in company and still give yourself a fuller account later. Even when you’re the only audience, the habit of making the week sound impressive can shape what you remember about it. A week with progress in it can also have an afternoon you would like some company getting through next time.",
+      "The wish to be seen as serious makes sense, especially if you’ve had to explain yourself often or if people close to you are looking for signs they can count on. Their questions can have consequences in your daily life. It’s also worth having some room where an ordinary, slightly messy answer can stand on its own. What you learn there might be quite specific, such as realizing that the invitations were manageable and the repeated requests for an explanation were what wore you out."
+    ],
+    "invitation": "If you’d like, write one private sentence about a detail you tend to leave out when you sum up how recovery is going.",
+    "question": "What part of your week would you give more attention to if your account of it only had to make sense to you?",
+    "sources": [
+      {
+        "book_id": 3,
+        "title": "The Recovery Book",
+        "author": "Al J. Mooney",
+        "isbn": "9780761183150",
+        "locator": "PDF page 363",
+        "quote": "You can’t change other people—you can only change yourself.",
+        "context_sha256": "a9585a880bee82f994467609e4fc2e312b135271affa46e11e4f08ff7bd4502f"
+      },
+      {
+        "book_id": 7,
+        "title": "No Bad Parts",
+        "author": "Richard C. Schwartz",
+        "isbn": "",
+        "locator": "Introduction (EPUB section 6)",
+        "quote": "the striving, materialistic, competitive parts of them that had dominated their lives",
+        "context_sha256": "80598a9b429f7397bc08d1917415b2a2f89b3418994b1aba631d2a17619abf88"
+      }
+    ],
+    "date": "2026-11-17",
+    "slug": "2026-11-17-when-recovery-starts-to-feel-like-a-performance-review",
+    "reading_minutes": 3
   }
 ]
