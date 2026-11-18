@@ -1227,5 +1227,44 @@
     "date": "2026-11-17",
     "slug": "2026-11-17-when-recovery-starts-to-feel-like-a-performance-review",
     "reading_minutes": 3
+  },
+  {
+    "title": "Experience Can Help Without Having the Final Word",
+    "summary": "Consider how a relationship can make room for someone’s experience while leaving you free to describe your own.",
+    "topic": "Keeping an equal voice in recovery relationships when someone else has more experience",
+    "category": "Relationships",
+    "paragraphs": [
+      "It can be a relief to talk with someone who knows a part of recovery firsthand. There’s less to explain, and they may have words for something you’ve been trying to describe. That familiarity can also make it easy for either person to assume they know what the other means. A boundary worth keeping is the freedom to say what an experience was like for you, even when the person listening has been through something similar.",
+      "In Mindful Recovery, Thomas Bien and Beverly Bien look at what happens when teachers and students bring fixed ideas to a relationship. A teacher may favor the student who already thinks as they do, then encourage more of that resemblance. A student may expect so much from a teacher that they overlook what the teacher can actually offer. The Biens are interested in what becomes possible when both people pay attention to the individual in front of them. Experience can inform that attention, and it can also give someone a ready-made explanation that fits their own life better.",
+      "Adult Children of Alcoholics / Dysfunctional Families considers a more specific relationship. In its account of ACA sponsorship, shared experience can give two people a starting point for empathy. The book describes a sponsor who listens closely enough to help the other person hear their own account more clearly. It also recognizes how unfamiliar it can feel to be on equal footing with someone whose help you’ve asked for. Within ACA’s Twelve Step framework, a sponsor brings experience with the program, while the relationship itself gives both people a voice.",
+      "Imagine mentioning to a friend who’s been sober for years that you left a birthday dinner early. They remember leaving gatherings because they felt conspicuous when everyone else was drinking, and they assume that was your reason, too. You’d actually had a pleasant evening and were ready to go home. There’s room for their memory in the conversation. There’s also room for your uneventful evening to stay uneventful. The friendship has space for more of your life when the details you supply can change how the conversation goes.",
+      "It may feel awkward to clarify a small detail when someone has offered it in a spirit of recognition. Gratitude and correction can go together. You can appreciate that a person is trying to understand and still tell them where their reading of the moment came apart from yours. The clearer sign of equality often comes in the next turn of the conversation. Someone who makes room for your clarification gives you a chance to keep talking without first having to defend your account.",
+      "The Biens ask readers to look beyond their expectations of people in several kinds of relationships. The ACA passage describes how listening can work inside a particular recovery partnership. Read together, they raise a question about what happens after someone recognizes a bit of themselves in your story. Recognition can give them a good reason to stay curious. They may have something to share, and what you tell them next may surprise them. You get to be part of deciding what the conversation is about."
+    ],
+    "invitation": "If you’d like, write one sentence about a recent moment you’d describe differently from someone who knows you well.",
+    "question": "What helps you feel comfortable adding a detail when someone you trust thinks they already understand?",
+    "sources": [
+      {
+        "book_id": 1,
+        "title": "Mindful Recovery: A Spiritual Path to Healing from Addiction",
+        "author": "Thomas Bien and Beverly Bien",
+        "isbn": "0471442615",
+        "locator": "PDF page 156",
+        "quote": "they expect teachers to give things that they do not have to give",
+        "context_sha256": "0b5a7723f2bdb29fd0a35c5467e5f8c8e6054bcc43787a23acd17150853f246e"
+      },
+      {
+        "book_id": 6,
+        "title": "Adult Children of Alcoholics / Dysfunctional Families",
+        "author": "Adult Children of Alcoholics World Service Organization",
+        "isbn": "",
+        "locator": "EPUB section 45 (EPUB section 45)",
+        "quote": "a thoughtful sponsor helps a sponsee hear what he or she is saying.",
+        "context_sha256": "0b8bedf9b656f63556b8c4d90cef83e26a6aa88a3123f807cce38388bcb1ff4b"
+      }
+    ],
+    "date": "2026-11-18",
+    "slug": "2026-11-18-experience-can-help-without-having-the-final-word",
+    "reading_minutes": 3
   }
 ]
