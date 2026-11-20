@@ -1266,5 +1266,44 @@
     "date": "2026-11-18",
     "slug": "2026-11-18-experience-can-help-without-having-the-final-word",
     "reading_minutes": 3
+  },
+  {
+    "title": "What Was Missing Has a Name",
+    "summary": "Naming one thing you needed and went without can give you a more specific way to think about care in recovery.",
+    "topic": "Naming a specific loss so you can recognize what you need in everyday recovery",
+    "category": "Everyday recovery",
+    "paragraphs": [
+      "It can be hard to figure out what would make a day feel safer when the words for what was missing are still broad. Maybe the word is stability, or comfort, or simply help. Those words can hold a lot, but they leave plenty of room for guesswork. A little more detail changes what you can picture. Stability might mean having an evening you can plan around. Comfort might mean somebody keeping you company through a meal. The thing you missed may have been ordinary enough that you hardly thought to count it.",
+      "In Came to Believe, a contributor to the Alcoholics Anonymous collection remembers going to church with their mother. After she died, the contributor kept attending for a while, even as they struggled to understand her death and began to doubt. The account makes room for the fact that a practice can still be available after someone dies and feel very different without them. Even the familiar act of going to church belonged to a changed life. The writer's later sense that nobody cared carries particular weight alongside that earlier memory of being accompanied.",
+      "Adult Children of Alcoholics / Dysfunctional Families approaches loss from a different direction. It gives readers language for recognizing what was missing in the homes where they grew up, including safety and nurture. In its discussion of grief, the book leaves room for simply recognizing the extent of a loss. The AA contributor is telling a personal story about bereavement and belief, while the ACA book is addressing family conditions that may have persisted for years. Taken together, the passages give us reason to pay attention to the particular care a loss took away or made hard to find.",
+      "Suppose you are trying to drink less and find that Saturday afternoons are hard to spend at home. You might first describe the problem as having too much time on your hands. Then you remember how a standing lunch with a friend used to give the afternoon some shape before they moved away. You may miss that friend, and you may also miss the ease of having something on the calendar that neither of you had to arrange from scratch every week. Both details belong in your account of what changed.",
+      "That distinction gives you something concrete to consider. A regular plan might suit you now, even if it looks quite different from those lunches. There is also room to miss the friend on their own terms. A new plan can serve a purpose in the present while an old relationship still matters to you. You get a clearer picture of the afternoon when you can say which part you want help with and which part you just wish were still there.",
+      "There can be tenderness in naming a need this plainly, especially if you are used to saying that a stretch of life was fine or just getting on with the day. Some things are easier to notice in retrospect, when you see how much effort it took to make do. Whatever recovery looks like for you, the detail you notice may be modest. There is room to take it seriously. An ordinary need is often easier to recognize again once you have words for it."
+    ],
+    "invitation": "If you feel like it, write down one ordinary thing you used to be able to count on that you miss having in your week.",
+    "question": "What detail about a difficult part of your week might help you name the kind of care you miss?",
+    "sources": [
+      {
+        "book_id": 2,
+        "title": "Came to Believe",
+        "author": "Alcoholics Anonymous",
+        "isbn": "9780916856052",
+        "locator": "PDF page 74",
+        "quote": "I had gone to church regularly with my mother",
+        "context_sha256": "be4dd388b2c2a065ddd1b2604da08a74145efdc59ca6adfb22474467fd7a76c0"
+      },
+      {
+        "book_id": 6,
+        "title": "Adult Children of Alcoholics / Dysfunctional Families",
+        "author": "Adult Children of Alcoholics World Service Organization",
+        "isbn": "",
+        "locator": "EPUB section 38 (EPUB section 38)",
+        "quote": "Many times we recognize the measure of our loss and that is enough.",
+        "context_sha256": "b1860a5a687be6efc9a6d8eab27bb7989ad984942e978a3961a5b741a33d0d06"
+      }
+    ],
+    "date": "2026-11-20",
+    "slug": "2026-11-20-what-was-missing-has-a-name",
+    "reading_minutes": 3
   }
 ]
