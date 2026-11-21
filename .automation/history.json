@@ -1305,5 +1305,44 @@
     "date": "2026-11-20",
     "slug": "2026-11-20-what-was-missing-has-a-name",
     "reading_minutes": 3
+  },
+  {
+    "title": "When a Feeling Belongs Beside the Facts",
+    "summary": "A hard feeling can tell you what a moment was like for you, even when the people involved remember it differently.",
+    "topic": "Giving feelings a place in an honest account of what happened in everyday recovery",
+    "category": "Self-compassion",
+    "paragraphs": [
+      "Two people can agree about what happened and still come away with different accounts of the evening. The time someone arrived, the words they said, and who was there may all be clear. What the evening was like for each person can take longer to say. In recovery, that part of the account can feel especially hard to include. You may be used to defending your memory of events or wondering whether your reaction was reasonable enough to mention. Your feelings belong in your own account of the evening.",
+      "In The Recovery Book, Al J. Mooney and his coauthors discuss how families prepare to speak about harm connected to someone’s substance use. They ask participants to draw on events they experienced themselves and describe both the effect of the behavior and how they felt. Within the planning for a formal intervention, there is room for the particular experience of the person who was there. The facts of an incident can explain why it came up. The feeling can help explain why it stayed with someone.",
+      "A contributor to Adult Children of Alcoholics / Dysfunctional Families describes a different problem with giving feelings a place. They had spent a long time treating their own reactions as unimportant and felt that keeping control was part of being responsible. In their account of Step Three, they begin to take their fear seriously and become more open to alternatives through their ACA group. The passage describes a spiritual change in how that person understood responsibility. Mooney and his coauthors are writing about what relatives can say to another person. The ACA contributor is writing about what they had struggled to hear in themselves.",
+      "Suppose you’re cutting back on drinking and a friend brings it up in front of other people at dinner. They mean to encourage you, and you spend much of the meal feeling exposed. If you tell yourself they meant well, you’ve accounted for one part of the evening. There’s still your experience of hearing something personal become a topic at the table. That detail might matter if you later want to explain why you’d prefer to talk about drinking one on one. You can appreciate your friend’s intention and want more privacy.",
+      "The same care can apply when someone is telling you about the effect of your own choices. Their disappointment may be hard to hear, especially if you remember the day differently. You can take in the part they know firsthand: how it felt to be there. Your own feelings about the conversation have a place, too. The two accounts may need different moments and different listeners. Sometimes it’s easier to hear what someone is saying when you know there will be room elsewhere to talk about how it landed with you.",
+      "A feeling may stay hard to name even after the details are clear. You might know you went quiet long before you know whether you felt embarrassed, angry, or simply tired of being discussed. In a private account of the day, went quiet can be enough detail for now. There’s room to come back to it later, and there’s room to keep it private. What mattered to you can have a place beside what happened, even if the only person who sees that fuller account is you."
+    ],
+    "invitation": "If you’d like, write one private sentence about how an ordinary moment felt from where you were.",
+    "question": "What part of a recent moment would you want your own account to make room for?",
+    "sources": [
+      {
+        "book_id": 3,
+        "title": "The Recovery Book",
+        "author": "Al J. Mooney",
+        "isbn": "9780761183150",
+        "locator": "PDF page 813",
+        "quote": "How it made the person recounting the story feel",
+        "context_sha256": "f041788c247f0e2ccfcb163761be5aadf141c0961bff2606a32c38ab337847fa"
+      },
+      {
+        "book_id": 6,
+        "title": "Adult Children of Alcoholics / Dysfunctional Families",
+        "author": "Adult Children of Alcoholics World Service Organization",
+        "isbn": "",
+        "locator": "EPUB section 28 (EPUB section 28)",
+        "quote": "I ignored my feelings and reactions for so long because I placed no importance on them.",
+        "context_sha256": "c5e2f771b9b88afbd9c8f8f87f44f4f9dbe65dd54fb33821aea527434300311e"
+      }
+    ],
+    "date": "2026-11-21",
+    "slug": "2026-11-21-when-a-feeling-belongs-beside-the-facts",
+    "reading_minutes": 3
   }
 ]
