@@ -1384,5 +1384,45 @@
     "date": "2026-11-22",
     "slug": "2026-11-22-when-someone-lets-you-correct-their-first-guess",
     "reading_minutes": 3
+  },
+  {
+    "title": "When Care and Disappointment Come From the Same Person",
+    "summary": "When someone tells you they care and names what hurt, there’s room to take both parts of the message seriously.",
+    "topic": "Hearing care and disappointment together in conversations about recovery",
+    "category": "Self-compassion",
+    "paragraphs": [
+      "Someone can be glad to hear from you and still have something difficult to say. Maybe they’ve been hoping you’d call, and they’re also upset about the last time you said you would. When a conversation touches on drinking, substance use, or a change you’re trying to make, the harder part can take up nearly all your attention. Later, you may remember exactly where their voice tightened and barely remember how warmly they greeted you.",
+      "In Alcoholics Anonymous’ Came to Believe, a contributor receives a letter from a son who puts affection, forgiveness, and disappointment on the same page. He is candid about having been disappointed, and he tells his parent they can count on him to try to understand and help. His willingness to say the difficult part gives his affection a particular credibility. He has room in the letter for what he felt then and for the relationship he wants now.",
+      "In Hold Me Tight, Sue Johnson shows how easily one part of a message can disappear while someone is still speaking. Doug hears Pauline’s wish for closeness as an assessment of how poorly he’s doing as a partner. He eventually recognizes how much of the criticism he’s hearing comes from his own fear. Johnson’s attention is on what happens between partners when a request for connection arrives sounding, to one of them, like a complaint.",
+      "These passages describe different situations. The son in Came to Believe really does express disappointment, and the person receiving his letter understands its arrival through faith in God. Johnson pays attention to how fear can change what a person hears in an intimate conversation. Read together, the passages make space for a possibility that gets lost when a conversation feels high stakes. A difficult part can be real, and a caring part can be real at the very same time.",
+      "Imagine a friend saying they’re happy you came to dinner and that they felt let down when you canceled at the last minute the week before. You might go home thinking the invitation was a courtesy and replay the sentence about canceling. But the welcome was part of the evening too. Taking the friend at their word in both places leaves you with something particular to acknowledge and a reason to believe they meant it when they said they were glad you came.",
+      "The temptation can run in the other direction, too. It can feel so good to hear that somebody still cares that you want to move quickly past the part where they tell you what hurt. A person may have more to say about what happened even after they’ve offered kindness. There’s room to let their kindness reach you while giving their disappointment some attention of its own, including the practical details that made an experience harder for them.",
+      "Sometimes one part of a conversation takes longer to believe than the other. You might be ready to talk about what happened long before you feel at ease accepting an invitation to come by again. The caring words can stay in your memory alongside the hard ones while you work out what to do with each. In the meantime, being wanted at the table and having something to talk through can both be part of the same ordinary evening."
+    ],
+    "invitation": "If you feel like it, jot down one caring detail from a conversation you mostly remember for its difficult part.",
+    "question": "What part of a recent conversation would you like to remember alongside the part that was hardest to hear?",
+    "sources": [
+      {
+        "book_id": 2,
+        "title": "Came to Believe",
+        "author": "Alcoholics Anonymous",
+        "isbn": "9780916856052",
+        "locator": "PDF page 117",
+        "quote": "I’d be a liar to say I wasn’t disappointed.",
+        "context_sha256": "d79649f19601dd1fd018ae4ff92ff10bbd6675c57fb7766d25788b3342833864"
+      },
+      {
+        "book_id": 5,
+        "title": "Hold Me Tight: Seven Conversations for a Lifetime of Love",
+        "author": "Sue Johnson",
+        "isbn": "9780316031998",
+        "locator": "PDF page 215",
+        "quote": "This voice drowns out Pauline’s words of love and twists them into criticism.",
+        "context_sha256": "c291d94cb3dca9c22b0822f7b6d090188e5741ab175b0ac19f120e1fd2d8a784"
+      }
+    ],
+    "date": "2026-11-23",
+    "slug": "2026-11-23-when-care-and-disappointment-come-from-the-same-person",
+    "reading_minutes": 3
   }
 ]
