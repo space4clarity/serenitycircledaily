@@ -1424,5 +1424,45 @@
     "date": "2026-11-23",
     "slug": "2026-11-23-when-care-and-disappointment-come-from-the-same-person",
     "reading_minutes": 3
+  },
+  {
+    "title": "Where Help Fits in an Ordinary Week",
+    "summary": "Consider what makes support easy to use on a regular Tuesday, when work, errands, and the rest of life still need your attention.",
+    "topic": "Making room for support at times that fit the ordinary routines of recovery",
+    "category": "Connection",
+    "paragraphs": [
+      "A little company can sound good in the abstract and feel hard to fit into a Tuesday. You may have time before work, when the person you like to talk with is getting their kids out the door. By the time you’re both free, you may be ready for bed. The care is real, and so are the hours when you can actually use it.",
+      "In The Recovery Book, Al J. Mooney describes several ways people can get support with quitting smoking. There are counselors reachable by phone or online, and there are group programs. The counselors can help people learn about their options and talk through what makes quitting difficult for them. There’s an ordinary detail worth pausing over in that list. How you reach someone affects when a conversation can happen and what else you have to arrange to make it possible.",
+      "Sue Johnson writes in Hold Me Tight about what becomes possible when romantic partners feel secure enough to turn toward each other. She describes closeness through the attention people give to the details of each other’s lives. In the couple she writes about, support with quitting smoking sits alongside practical care for a sore back. Mooney is describing services people can contact, and Johnson is looking at how partners respond to each other. Both passages make room for care that has a place in the day as it’s already being lived.",
+      "Imagine you’re cutting back on drinking and a friend offers to keep you company one evening. You appreciate the offer, but evenings are when you make dinner, get the laundry started, and try to have a little quiet. You already walk to the bus stop near your friend’s place on Thursdays. For the two of you, walking that stretch together might be easier to arrange than finding a free evening. There’s room to talk on the way, and you can still catch your bus.",
+      "The time that fits may depend on what kind of attention you want. A walk can give you company on a day when you’ve mostly been by yourself. If you want to talk through something you’ve been weighing, you may want somewhere you can stop and think mid-sentence. The time you technically have and the time that feels available can be two different things, especially when you spend much of the day attending to someone else.",
+      "There can be some relief in talking about the calendar directly. Even with someone you know well, it’s easy to keep saying you’ll get together soon because you both mean it. Naming a time that works gives each person a chance to say what they can comfortably offer. In a close relationship, that can be part of paying attention to each other. You get to hear how the week looks from the other side, too.",
+      "A workable time can also give a conversation a natural stopping point. If you have twenty minutes before you need to leave, that may be enough time to talk about one thing and hear what someone has to say. You can pick up the rest another day. Whether you’re sober, cutting back, or figuring out what you want to change, a conversation can be one part of a day that still has room for lunch, errands, and sitting down for a while."
+    ],
+    "invitation": "If you feel like it, jot down one time in your usual week when a little company would fit comfortably.",
+    "question": "When in your week would you have enough room to enjoy someone’s company without feeling rushed?",
+    "sources": [
+      {
+        "book_id": 3,
+        "title": "The Recovery Book",
+        "author": "Al J. Mooney",
+        "isbn": "9780761183150",
+        "locator": "PDF page 790",
+        "quote": "who can help you find information and explore options for quitting.",
+        "context_sha256": "a75bc41fdd9793c080c96fa046910df4d95bdd8979d20d6b46e27a65ceab7436"
+      },
+      {
+        "book_id": 5,
+        "title": "Hold Me Tight: Seven Conversations for a Lifetime of Love",
+        "author": "Sue Johnson",
+        "isbn": "9780316031998",
+        "locator": "PDF page 221",
+        "quote": "so that we can tune in to and actively support our loved one.",
+        "context_sha256": "250369631862388a7f56aee3940bd4581c1f74a9e6e8ec041993433c746b4046"
+      }
+    ],
+    "date": "2026-11-24",
+    "slug": "2026-11-24-where-help-fits-in-an-ordinary-week",
+    "reading_minutes": 3
   }
 ]
