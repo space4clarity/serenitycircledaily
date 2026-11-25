@@ -1464,5 +1464,45 @@
     "date": "2026-11-24",
     "slug": "2026-11-24-where-help-fits-in-an-ordinary-week",
     "reading_minutes": 3
+  },
+  {
+    "title": "The Chore Can Wait Until After Dinner",
+    "summary": "The hour a chore suddenly feels urgent can tell you something about what you’re asking it to do.",
+    "topic": "Noticing what the timing of an ordinary chore reveals about the relief we want in recovery",
+    "category": "Everyday recovery",
+    "paragraphs": [
+      "A sink full of dishes can sit untouched for an afternoon and become the most pressing thing in the house at seven. The dishes are the same. What changed is that seven is when the day usually lets up, and the time that follows can feel awkward to spend. In recovery, a chore that arrives right on cue can tell you something about what you want from that stretch of the evening.",
+      "In Mindful Recovery, Thomas Bien and Beverly Bien include taking on a project among the ways people move away from an uncomfortable moment. A project can be useful and still serve that purpose. The Biens’ emphasis on paying attention gives us a way to look at when we reach for a task. A clean kitchen is easy to account for. The sudden need to clean it right now can be easier to overlook, especially when there’s plenty of work to point to.",
+      "The foreword writer of Richard C. Schwartz’s No Bad Parts describes a different kind of attention. In the framework of Internal Family Systems, the writer came to regard different parts of their inner life as having something to communicate, even when their behavior was hard to understand. Applied to an ordinary chore, that perspective makes room for curiosity about the impulse itself. What does the side of you that wants the kitchen finished by seven hope the work will give you?",
+      "Imagine that seven used to be when you poured your first drink. Tonight you plan to spend that hour differently. Halfway through dinner, the roasting pan catches your eye. By the time you stand up, you’re already thinking about wiping the cabinet doors while you have the cloth out. The pan needs soaking, and breakfast will go more smoothly with a clear counter. What stands out is that tomorrow’s breakfast has suddenly become urgent while tonight’s dinner is still warm.",
+      "The timing suggests another job the chore might be doing. The old routine gave the evening a recognizable beginning. Scrubbing offers a clear first move and lets you see what you’ve done with the next twenty minutes. That can be appealing when a familiar hour opens up and you have no particular plan for it. Once you see what the work offers, you have a more specific choice about whether to keep doing it, how much to do, and when to call it finished.",
+      "In that kitchen, putting the pan to soak would take care of the part that benefits from happening soon. The cabinet doors could wait for a time you’d actually choose to wipe them. There’s also room to decide that you’d like to wash the dishes now because the familiar work suits you this evening. The point of noticing the hour is to give yourself a say in how much of it you hand over to the kitchen.",
+      "Evenings have practical limits. A shared kitchen may need to be cleared before someone else cooks, and a work schedule can leave exactly one opening for laundry. Sometimes the timing tells you that the chore fits. Other times you can hear the urgency drop as soon as you give the evening a beginning of its own. Over time, the distinction can be as ordinary as knowing which pan needs to soak and which cupboard can stay closed."
+    ],
+    "invitation": "If a chore suddenly feels urgent tonight, you might jot down when you would normally do it and what makes this hour different.",
+    "question": "What would make a familiar evening hour feel like it has begun, even with a chore still waiting?",
+    "sources": [
+      {
+        "book_id": 1,
+        "title": "Mindful Recovery: A Spiritual Path to Healing from Addiction",
+        "author": "Thomas Bien and Beverly Bien",
+        "isbn": "0471442615",
+        "locator": "PDF page 51",
+        "quote": "we seek distraction, diversion, entertainment, or some sort of project",
+        "context_sha256": "cc75f4b9c46c5e9d8454e16c295d34561de38282be6454d2cd5250a9de067a4b"
+      },
+      {
+        "book_id": 7,
+        "title": "No Bad Parts",
+        "author": "Richard C. Schwartz",
+        "isbn": "",
+        "locator": "FOREWORD (EPUB section 5)",
+        "quote": "I came to see these internal parts as messengers",
+        "context_sha256": "5dc989c30d5a20a27fa8e5bc248bce1be1e16744a1c6a6a5b9d9b759283bc30e"
+      }
+    ],
+    "date": "2026-11-25",
+    "slug": "2026-11-25-the-chore-can-wait-until-after-dinner",
+    "reading_minutes": 3
   }
 ]
