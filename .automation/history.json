@@ -1543,5 +1543,45 @@
     "date": "2026-11-26",
     "slug": "2026-11-26-a-decision-can-be-good-for-just-one-evening",
     "reading_minutes": 3
+  },
+  {
+    "title": "When You Need to Know What You Can Count On",
+    "summary": "A clear limit gives both people in a recovery relationship a chance to say what they can give and what they need.",
+    "topic": "Making availability clear enough for both people to decide whether a recovery relationship meets their needs",
+    "category": "Relationships",
+    "paragraphs": [
+      "It can be hard to ask someone what kind of time they can give you. The question can feel oddly formal when someone has just offered to be there for you. It may seem kinder to take the offer as it comes and figure out the details later. But if you find yourself hesitating each time you reach out, knowing what the other person actually meant by the offer can make a difference.",
+      "In The Recovery Book, Al J. Mooney tells sponsors they can put limits on their availability. He also cautions them against hovering or doing so much that the person they sponsor has little left to do for herself. There is room in that advice for the person receiving help to make her own choices. One of those choices is whether the kind of contact on offer gives her enough to work with.",
+      "Adult Children of Alcoholics / Dysfunctional Families, published by the Adult Children of Alcoholics World Service Organization, approaches limited availability through the commitments of ACA sponsorship. It asks a sponsor with limited time to say so up front while making clear that they want to take on the role. It also recognizes that the person being sponsored may decide to leave if calls go unanswered or time for program work rarely materializes. Both people get a say in whether the arrangement works.",
+      "Mooney is especially attentive to how much a sponsor takes on in someone else’s life. The ACA passage spends more time on what the two people can expect from an ongoing arrangement. Read together, the passages raise a practical issue about boundaries. Once one person names a limit, the other person needs enough room to say how that limit would affect them. Otherwise, the conversation can end before the person seeking support has had much of a chance to speak.",
+      "Imagine someone who is cutting back on drinking asks a friend if they can talk occasionally. The friend offers a Sunday phone call. What the person had in mind was a quick conversation after a Friday shift, when coworkers usually head out for drinks. Sunday could still be welcome. The friend may have had no idea that the timing was part of the request. Once that detail is out in the open, both people understand what the Sunday call can offer and what the person was hoping for on Friday.",
+      "Speaking up about a mismatch can feel awkward, especially when someone has offered their time freely. You might appreciate the offer and still feel uneasy about relying on it. You can say what you were hoping for without asking the other person to justify their schedule. And if you are the one offering time, hearing that someone needs something different can help you understand their request without having to make a commitment you would struggle to keep.",
+      "Sometimes you learn what you need only after trying an arrangement for a while. You may find that an occasional call feels easy to count on because you both know when it will happen. Or you may realize that the way you have agreed to stay in touch leaves you guessing when it is okay to reach out. That is a specific thing you can bring back to the conversation. The other person has a chance to tell you what they had in mind, and you have a chance to say what would make the arrangement workable for you."
+    ],
+    "invitation": "If you feel like it, write one private sentence about what would make an existing offer of support easier for you to count on.",
+    "question": "What would you like to know about an offer of support before you feel comfortable taking someone up on it?",
+    "sources": [
+      {
+        "book_id": 3,
+        "title": "The Recovery Book",
+        "author": "Al J. Mooney",
+        "isbn": "9780761183150",
+        "locator": "PDF page 554",
+        "quote": "you don’t have to be available every minute of the day and night.",
+        "context_sha256": "3cde2adb6b3050d5a24dac341993f366c7cfe26d4098395be1f11f59a2d0c59a"
+      },
+      {
+        "book_id": 6,
+        "title": "Adult Children of Alcoholics / Dysfunctional Families",
+        "author": "Adult Children of Alcoholics World Service Organization",
+        "isbn": "",
+        "locator": "EPUB section 46 (EPUB section 46)",
+        "quote": "a sponsor unwilling to return calls or be available for program work.",
+        "context_sha256": "aeadbe48477624feac705b3173ff63b1d4018a816f91a5ac83619ed755226170"
+      }
+    ],
+    "date": "2026-11-27",
+    "slug": "2026-11-27-when-you-need-to-know-what-you-can-count-on",
+    "reading_minutes": 3
   }
 ]
