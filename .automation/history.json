@@ -1583,5 +1583,44 @@
     "date": "2026-11-27",
     "slug": "2026-11-27-when-you-need-to-know-what-you-can-count-on",
     "reading_minutes": 3
+  },
+  {
+    "title": "When Familiar Feels Like Safe",
+    "summary": "In everyday recovery, a familiar room can tell you a lot about what you’ve learned to handle and leave open the question of what feels safe to you now.",
+    "topic": "Distinguishing what feels familiar from what feels safe in everyday recovery",
+    "category": "Everyday recovery",
+    "paragraphs": [
+      "A place can feel easy to walk into because you already know how to get through an evening there. You know where to sit, when to laugh, and which subjects to leave alone. That familiarity can be a real comfort. It can also make it hard to tell how much work you’re doing to keep the evening comfortable. In everyday recovery, there’s room to ask what you like about being somewhere and what you’ve simply gotten good at handling.",
+      "In Mindful Recovery, Thomas Bien and Beverly Bien describe paying attention to what is good in an ordinary moment while staying aware of what hurts. Their discussion draws on Buddhist psychology, and part of its appeal is how much it asks us to notice in the same moment. To bring that idea to a roomful of people, a kind exchange can count for something even when another part of the evening is difficult. You can remember both when you think about going back.",
+      "Adult Children of Alcoholics / Dysfunctional Families looks at familiarity from another direction. A contributor in its discussion of amends describes having learned to put up with so much inappropriate behavior that they sometimes recognized the harm only after it had gone quite far. In that contributor’s account, the risk of more harm matters when deciding whether to make amends through direct contact. The B iens are writing about where we give our attention. The ACA contributor is weighing what contact asks of a person. Both perspectives give you a reason to look more closely at an encounter you already know by heart.",
+      "Imagine you’re at a standing Friday dinner, and you’ve decided to skip alcohol that evening. A friend saves you a seat, and you spend half an hour laughing about a kitchen mishap. Later, someone keeps asking why you’re having seltzer, even after you’ve answered. On the way home, you remember how good it felt that your friend saved you a place. You also remember spending the last part of dinner listening for the next question. Those details tell you different things about the same invitation.",
+      "It’s easy to judge the whole evening by whether you got through it. If you stayed until dessert and kept the conversation friendly, dinner might go down in your memory as fine. There’s more to learn from what you had to pay attention to while you were there. Maybe being included felt good right away, while the effort of keeping your choice from becoming a topic only became clear afterward. You can take that later impression seriously, even if everyone parted on good terms.",
+      "What feels safe may be easier to describe in small particulars than in a verdict about a place or a group. At that dinner, it could mean being able to order a drink and get back to the kitchen story. That’s a modest thing to want, and it gives you something specific to recognize when it happens. You might still enjoy the people at the table and feel differently about spending a whole evening there. You have room to let the parts you enjoy and the parts you brace for inform what you’re willing to say yes to next time."
+    ],
+    "invitation": "If you feel like it, write one sentence about something you had to keep track of the last time you were in a familiar room.",
+    "question": "In a familiar gathering, what helps you tell when you can enjoy being there without having to keep watch over the conversation?",
+    "sources": [
+      {
+        "book_id": 1,
+        "title": "Mindful Recovery: A Spiritual Path to Healing from Addiction",
+        "author": "Thomas Bien and Beverly Bien",
+        "isbn": "0471442615",
+        "locator": "PDF page 214",
+        "quote": "we should not deny or ignore negative feelings",
+        "context_sha256": "4896e0cf71d915696eea50c645e2dba9790b2130283588e174e57ecee0f839bb"
+      },
+      {
+        "book_id": 6,
+        "title": "Adult Children of Alcoholics / Dysfunctional Families",
+        "author": "Adult Children of Alcoholics World Service Organization",
+        "isbn": "",
+        "locator": "EPUB section 36 (EPUB section 36)",
+        "quote": "I still have\n\na high tolerance for inappropriate behavior",
+        "context_sha256": "76c21df54e45ca08fcacacf656ef1f6d7a6a8ca486eaa4c91ad33734bab2b180"
+      }
+    ],
+    "date": "2026-11-28",
+    "slug": "2026-11-28-when-familiar-feels-like-safe",
+    "reading_minutes": 3
   }
 ]
